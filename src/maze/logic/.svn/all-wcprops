@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/LPOO11T1G2/!svn/ver/3/src/maze/logic
+END
+Celula.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/LPOO11T1G2/!svn/ver/3/src/maze/logic/Celula.java
+END
+CriaTabuleiro.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/LPOO11T1G2/!svn/ver/3/src/maze/logic/CriaTabuleiro.java
+END
+Heroi.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/LPOO11T1G2/!svn/ver/3/src/maze/logic/Heroi.java
+END
+Tabuleiro.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/LPOO11T1G2/!svn/ver/3/src/maze/logic/Tabuleiro.java
+END
+Dragao.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/LPOO11T1G2/!svn/ver/3/src/maze/logic/Dragao.java
+END
+Espada.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/LPOO11T1G2/!svn/ver/3/src/maze/logic/Espada.java
+END
+Figura.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/LPOO11T1G2/!svn/ver/3/src/maze/logic/Figura.java
+END
+Jogo.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/LPOO11T1G2/!svn/ver/3/src/maze/logic/Jogo.java
+END
